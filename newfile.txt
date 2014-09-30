@@ -1,0 +1,2 @@
+Enter file contents here.
+Hello this is a new file.
